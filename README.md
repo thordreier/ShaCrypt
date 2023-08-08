@@ -1,6 +1,6 @@
 # ShaCrypt
 
-PowerShell module: ShaCrypt.
+PowerShell module: Create SHA password hash for use in Linux /etc/shadow file
 
 ## Usage
 
